@@ -9,15 +9,8 @@ branches:
 
 env:
   global:
-<<<<<<< HEAD
     - AEGIR_HOSTING_VERSION=7.x-3.x
     - AEGIR_TESTS_VERSION=master
-=======
-    - DOCKER_VERSION=1.12.0-0~trusty
-    - DOCKER_COMPOSE_VERSION=1.7.1
-    - AEGIR_TESTS_VERSION
-    - AEGIR_HOSTMASTER_VERSION=7.x-3.x
->>>>>>> 113d160f9107250614c08bdd42a180275a268ab2
 
 #env:
 #  - test: Ubuntu 14.04 Apache
